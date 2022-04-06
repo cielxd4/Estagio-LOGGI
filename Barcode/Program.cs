@@ -69,6 +69,12 @@ namespace Barcode
                 contador += 1;
             }
 
+            Console.WriteLine("Gabriel Silvera de Oliveira");
+            Console.WriteLine("Universidade Federal de Mato-Grosso do Sul - UFMS");
+            Console.WriteLine("Formação no ano de 2024");
+            Console.WriteLine("Quinto semestre");
+
+
             //A Loggi precisa:
 
             //1.

@@ -1,0 +1,1 @@
+Programa feito em C# 9 com o .NET 5.1 (current)
